@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Scorify (Live Cricket Scoring)](https://github.com/SurturFTW/scorify_v1.0)
 
-- 🌱 I’m currently learning **PHP, Flutter, S**
+- 🌱 I’m currently learning **PHP, Flutter**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
