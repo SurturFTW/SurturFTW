@@ -5,7 +5,7 @@
 
 - 📍 I’m located at **Dombivli, Maharashtra**
 
-- 🔭 I’m currently working on [Scorify (Live Cricket Scoring)](https://github.com/SurturFTW/scorify_v1.0)
+- 🔭 I’m currently working on [Scorify (Live Cricket Scoring)](https://scorify07.000webhostapp.com/)
 
 - 🌱 I’m currently learning **PHP, Flutter**
 
