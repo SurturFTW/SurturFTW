@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 📫 Reach me at **thekingpush417@gmail.com**
+- 📫 Reach me at **pushkarsane07@gmail.com*
 
 - ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**
 
