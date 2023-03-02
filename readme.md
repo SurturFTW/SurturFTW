@@ -1,5 +1,5 @@
 <h1 align="left">Hey There 👋, I'm Pushkar Sane</h1>
-<h2 align="left">A Front-End Developer</h2>
+<h2 align="left">Newbie Front-End Developer</h2>
 
 <h3 align="left">About Me:</h3>
 
