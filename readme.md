@@ -7,7 +7,7 @@
 
 - 🔭 Final Year Project [Scorify (Live Cricket Scoring)](https://scorify07.000webhostapp.com/)
 
-- 🌱 I’m currently learning **PHP, Flutter**
+- 🌱 I’m currently learning **ReactJS, OpenCV**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
