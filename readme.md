@@ -1,5 +1,4 @@
 <h1 align="left">Hey There 👋, I'm Pushkar Sane</h1>
-<h2 align="left">Newbie Front-End Developer</h2>
 
 <h3 align="left">About Me:</h3>
 
@@ -8,8 +7,6 @@
 - 🔭 Final Year Project [Scorify (Live Cricket Scoring)](https://scorify07.000webhostapp.com/)
 
 - 🌱 I’m currently learning **ReactJS, OpenCV**
-
-- 👯 I’m looking to collaborate on **Front-End Projects**
 
 - 📫 Reach me at **pushkarsane07@gmail.com**
 
@@ -56,9 +53,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
 </p>
 
-## 🏆 GitHub Trophies
+/* ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SurturFTW&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+*/
 
 
 <h3 align="left">Most Used Languages:</h3>
