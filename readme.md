@@ -45,17 +45,13 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> &nbsp;
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> &nbsp;
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
 </p>
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SurturFTW&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
+
 
 <h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SurturFTW&show_icons=true&locale=en&layout=compact&theme=dark" alt="SurturFTW" /></p>
